@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: i like oranges and my favorite color is green
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ethan Wong. 
 
 - I rock a great mustache
 - I'm extremely loyal to my family
